@@ -35,17 +35,15 @@ Assessing whether stores maintain the required assortment of products and identi
 
 This repository is organized as follows:
 
-• `dataset/`  
+• `Raw data.xlsx`  
 Contains the datasets used for the analysis.
 
-• `data_analysis/`  
-Data processing, aggregation, and analysis performed using Excel.
+• `Dashboard - Category Urology Retail Performance.pbix`  
+Power BI dashboard visualizing sales performance, inventory levels, lost sales, and assortment compliance for the Urology product category across the retail network.
 
-• `presentation/`  
+• `Report - Category Urology Retail Performance.pptx`  
 Final business presentation summarizing key insights and recommendations.
 
-• `report/`  
-A structured report highlighting findings, visualizations, and business implications.
 
 ---
 
